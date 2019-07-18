@@ -40,4 +40,3 @@ Sound like fun? Try our [Ruby Solver](./starters/sortbot.rb) to get a headstart 
 Complete API documentation: [API.md](./API.md)
 
 More about Sortbot here: https://noopschallenge.com/challenges/sortbot
-teste
